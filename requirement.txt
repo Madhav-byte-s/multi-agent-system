@@ -1,0 +1,11 @@
+# Core LLM + LangChain ecosystem
+langchain>=0.2.0
+langchain-core>=0.2.0
+langchain-community>=0.2.0
+langchain-mistralai
+
+# Tools & Web Scraping
+tavily-python
+beautifulsoup4
+requests
+python-dotenv
